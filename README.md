@@ -41,7 +41,7 @@ the specified phone number.
    python main.py
 4. install the requests and twilio libraries
     ```bash
-    pip install requests twilio
+    pip install requests twilio requests
 
 ## Author
 - [laurianerzb](https://github.com/laurianerzb)
